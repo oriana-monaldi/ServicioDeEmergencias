@@ -9,7 +9,6 @@
 - React
 - Vite
 - Tailwind
-- Firebase
 
 ## 📌 Funcionalidades  
 
